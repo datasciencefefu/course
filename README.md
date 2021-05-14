@@ -1,7 +1,7 @@
 [<img src="images/title.png" align="center">](https://github.com/datasciencefefu/course/index.html)
 
-
-# Структура курса
+---
+# ОБРАБОТКА БОЛЬШИХ ДАННЫХ И ПРОГНОЗНАЯ АНАЛИТИКА
 ---
 
 
