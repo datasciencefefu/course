@@ -1,12 +1,20 @@
 [<img src="images/title.png" align="center">](https://github.com/datasciencefefu/course/index.html)
-<hr>
-# Введение (теория) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ONFXS_4HEVg3otWDEWoBpgXOWCMsbuf3?usp=sharing 
+
+
+# Структура курса
+---
+
+
+# Введение (теория) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ONFXS_4HEVg3otWDEWoBpgXOWCMsbuf3?usp=sharing)
+
 * Роль анализа данных в современном мире
 * Анализ больших данных
 * Характеристики больших данных
 * Инструменты анализа данных
 * Инструменты Python для анализа данных
+---
 # Глава 1 - Основы статистического анализа [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1lfgEaR57nrfETmvCQ6tfO3h_MdLGEOez?usp=sharing)
+
 * Описательная статистика
 	* Категориальные и количественные, непрерывные и дискретные переменные
 	* Гистограммы
@@ -28,8 +36,10 @@
 		* Распределение Пуассона
 	* Случайная выборка и выборочное среднее
 	* Диаграмма размаха
-<hr>
+
+---
 # Глава 2 - Сбор и предобработка данных [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1N2PN1fkNa1qpBcXEYHrLAV-CrbTnGFk_?usp=sharing)
+
 * Получение данных
 	* DataFrame
 		* Индексация в DataFrame
@@ -43,8 +53,15 @@
 	* Работа с пропусками
 	* Удаление дубликатов
 	* Объединение таблиц
-<hr>
+
+
+Лабораторные работы: 
+* Ввод данных
+* Парсинг
+* Pandas (по вариантам)
+---
 # Глава 3 - Визуализация данных	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Ewj8sA_QVLzteoTexscwa8cuGIft2pPA?usp=sharing)
+
 * Pandas
 	* Отображение нескольких графиков
 * Matplotlib
@@ -52,7 +69,12 @@
 	* Создание нескольких графиков
 * Seaborn
 * Plotly
-<hr>
+
+
+Лабораторные работы: 
+* Визуализация
+* Обработка данных
+---
 # Глава 4 - Нейронные сети и ML	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/15mjXtFhMwAMty6Hn2Chcqx5PiR24JV1P?usp=sharing)
-<hr>
+---
 # Приложение - Линейная алгебра с NumPy	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/15mjXtFhMwAMty6Hn2Chcqx5PiR24JV1P?usp=sharing)
