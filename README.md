@@ -77,4 +77,4 @@
 ---
 # Глава 4 - Нейронные сети и ML	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/15mjXtFhMwAMty6Hn2Chcqx5PiR24JV1P?usp=sharing)
 ---
-# Приложение - Линейная алгебра с NumPy	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/15mjXtFhMwAMty6Hn2Chcqx5PiR24JV1P?usp=sharing)
+# Приложение - Линейная алгебра с NumPy	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/14EO8Bg2-QMN1MbmgKqAjrNOmsYqsE9Gh?usp=sharing)
