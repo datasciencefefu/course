@@ -5,15 +5,15 @@
 ---
 
 
-# Введение (теория) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ONFXS_4HEVg3otWDEWoBpgXOWCMsbuf3?usp=sharing)
+# Глава 1 - Роль анализа данных в современном мире [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ONFXS_4HEVg3otWDEWoBpgXOWCMsbuf3?usp=sharing)
 
-* Роль анализа данных в современном мире
 * Анализ больших данных
 * Характеристики больших данных
 * Инструменты анализа данных
 * Инструменты Python для анализа данных
+
 ---
-# Глава 1 - Основы статистического анализа [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1lfgEaR57nrfETmvCQ6tfO3h_MdLGEOez?usp=sharing)
+# Глава 2 - Основы статистического анализа [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1lfgEaR57nrfETmvCQ6tfO3h_MdLGEOez?usp=sharing)
 
 * Описательная статистика
 	* Категориальные и количественные, непрерывные и дискретные переменные
@@ -38,7 +38,7 @@
 	* Диаграмма размаха
 
 ---
-# Глава 2 - Сбор и предобработка данных [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1N2PN1fkNa1qpBcXEYHrLAV-CrbTnGFk_?usp=sharing)
+# Глава 3 - Сбор и предобработка данных [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1N2PN1fkNa1qpBcXEYHrLAV-CrbTnGFk_?usp=sharing)
 
 * Получение данных
 	* DataFrame
@@ -55,12 +55,8 @@
 	* Объединение таблиц
 
 
-Лабораторные работы: 
-* Ввод данных
-* Парсинг
-* Pandas (по вариантам)
 ---
-# Глава 3 - Визуализация данных	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Ewj8sA_QVLzteoTexscwa8cuGIft2pPA?usp=sharing)
+# Глава 4 - Визуализация данных	[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Ewj8sA_QVLzteoTexscwa8cuGIft2pPA?usp=sharing)
 
 * Pandas
 	* Отображение нескольких графиков
@@ -69,11 +65,6 @@
 	* Создание нескольких графиков
 * Seaborn
 * Plotly
-
-
-Лабораторные работы: 
-* Визуализация
-* Обработка данных
 
 
 ---
