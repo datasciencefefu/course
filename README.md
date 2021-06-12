@@ -1,4 +1,4 @@
-[<img src="images/readmeimg.png" align="center">](https://github.com/datasciencefefu/course/index.html)
+[<img src="images/readmeimg.png" align="center">](https://datasciencefefu.github.io/course)
 
 ---
 # ОСНОВЫ СТАТИСТИЧЕСКОГО И ИССЛЕДОВАТЕЛЬСКОГО АНАЛИЗА ДАННЫХ НА PYTHON
